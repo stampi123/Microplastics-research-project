@@ -1,2 +1,3 @@
 # Microplastics-research-project
-Research project for data science course at UCSD
+Senior year research paper for data science course at UCSD (COGS 108)
+
