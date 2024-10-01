@@ -1,5 +1,5 @@
 # Microplastics Concentrations and Policy Effectivness Research Study
-This was my senior year research paper for an experiential learning data science course at UCSD (COGS 108). 
+This research paper was conducted during my senior year as part of an experiential learning data science course (COGS 108) at UCSD. Our group employed Python and a range of statistical methods to analyze large datasets and investigate our hypothesis.
 
 ## Overview: 
 
